@@ -1,0 +1,9 @@
+<toast scenario="alarm">
+    <visual>
+        <binding template="ToastGeneric">
+            <text>ToastText</text>
+            <image placement="appLogoOverride" src="C:\"/>
+        </binding>
+    </visual>
+     <audio silent="true"/>
+</toast>
